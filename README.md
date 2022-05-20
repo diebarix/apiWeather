@@ -10,8 +10,8 @@ return an object with the all information the weather of the city
 > The web use your gps, this way the API of openweathermap show all information of the climate of your city, without being asked.
 
 
-####icons animated
+##icons animated
 for icons animated i use [amcharts](http://https://www.amcharts.com/ "amcharts") that offert statistics and graphs, but too has some [free animated SVG weather icons](http://https://www.amcharts.com/free-animated-svg-weather-icons/ "free animated SVG weather icons"), with licenses  **Creative Commons**
 
-####like i did
+##like i did
 support me from a video tutorial and read documentation of the API, so only i was calling each data of the object wearing fetch, and i was showing it.
