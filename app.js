@@ -17,7 +17,7 @@ window.addEventListener('load', () => {
             lat = position.coords.latitude
             console.log(lon)
 
-            const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=103b0e1348d3fec397bd0d2c05a16a43`;
+            const url = /*Aqui va la API */;
             console.log(url)
             //usamos peticiones hacia la API usando fetch
             //fetch utiliza promesas  
